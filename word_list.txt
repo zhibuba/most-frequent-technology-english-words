@@ -1,0 +1,246 @@
+privilege
+alphabetically
+diversified
+asterisk
+significant
+minus
+permutation
+heterogeneous
+tilde
+design partten
+ephemeral
+imperative
+intermittent
+seamless
+scalability
+bandwidth
+traceability
+traversal
+cli
+glossary
+redacted
+marry
+dash
+single quotation mark
+capture
+notation
+recursion
+manually
+exclamation mark
+semantic
+indecisive
+asynchronous
+trajectory
+escalate
+infrastructure
+roll off
+homebrew
+robust
+capacity
+overhead
+fault tolerance
+scheduler
+deprecated
+hypothesis
+mechanism
+bogus
+sustainable
+differentiate
+resilient
+equivalent
+severity
+synchronous
+parenthesis
+descent
+square brackets
+analogy
+embrace
+simultaneously
+underscore
+utilization
+miscellaneous
+integration
+tweak
+constraint
+takeaway
+populate
+on premise
+concatenate
+upwards arrow
+question mark
+implicit
+revisit
+agnostic
+double quotation mark
+dead letter queue
+optimization
+granular
+cost efficient 
+malware
+encryption
+authentication
+redundancy
+streamline
+tolerance
+period
+plus
+metrics
+intuitive
+anomaly
+faceted search
+inception
+distinction
+workaround
+consumption
+hash
+cluster
+scenario
+compliance
+failover
+encapsulate
+introspect
+contrast
+authorization
+initiative
+percent
+strength
+slash
+mitigate
+impression
+throughput
+amortization
+respective
+strangler pattern
+mediocre
+mature
+retrospective
+expenditure
+threshold
+comprehensive
+complexity
+leverage
+subtle
+reliability
+taxonomy
+dedicated
+replicas
+ellipsis
+model
+agility
+impersonate
+false positive
+underlying
+monetize
+right arrow
+left arrow
+stroke
+permissive
+analyze
+crucial
+concrete
+architecture
+guid
+cost effective
+occasion
+greater than
+semicolon
+hyphen
+polyfill
+explicit
+restriction
+mutable
+caret
+oversight
+impact
+aspect
+ampersand
+allocate
+scope
+periodically
+uat
+caveats
+section
+declarative
+protocol
+schema
+remediation
+substantial
+decouple
+backslash
+intrusive
+equal
+agile
+comma
+tentative
+resilience
+sophisticated
+sit
+provision
+elastic
+retain
+intervention
+confidentiality
+module
+durability
+data sovereignty
+compromise
+elasticity
+under the hood
+rectify
+failback
+bottleneck
+permanent
+delivery
+standalone
+evaluation
+evolution
+consultative
+thrilled
+curly brackets
+automation
+hierarchical
+hypervisor
+reconcile
+critical
+dollar sign
+incident
+arbitrary
+vulnerability
+constant
+downwards arrow
+latency
+efficiency
+concurrent
+aggregation
+catastrophic failover
+characteristic
+interaction
+angle brackets
+at
+ratify
+subsidiary
+rapid
+gui
+priority
+federation
+integrity
+incentive
+furthermore
+undertake
+accordion
+customized
+post mortem
+degradation
+immutable
+optimize
+magnetic storage 
+tenancy
+aggregate
+vice versa
+roll out
+ascent
+symmetric
+depreciation
+less than
+disclaimer
+colon
